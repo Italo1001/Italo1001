@@ -2,11 +2,9 @@
 
 <!-- Banner responsivo claro/escuro -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[https://github.com/Italo1001/Italo1001/blob/main/imagens/italo1001-banners/header-dark.png]">
-  <source media="(prefers-color-scheme: light)" srcset="[https://github.com/Italo1001/Italo1001/blob/main/imagens/italo1001-banners/header-light.png]">
-  <img alt="Banner do perfil" src="[https://github.com/Italo1001/Italo1001/blob/main/imagens/italo1001-banners/social-media-dark.png]">
+   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Italo1001/Italo1001/blob/main/imagens/italo1001-banners/header-dark.png">
+   <img alt="Logo for Italo E.c" src="https://github.com/Italo1001/Italo1001/blob/main/imagens/italo1001-banners/header-light.png">
 </picture>
-
 <br>
 
 # 👋 Olá, eu sou Italo
