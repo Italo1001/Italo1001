@@ -1,11 +1,26 @@
 <div align="center">
 
-<!-- Banner responsivo claro/escuro -->
 <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Italo1001/Italo1001/blob/main/imagens/italo1001-banners/header-dark.png">
-   <img alt="Logo for Italo E.c" src="https://github.com/Italo1001/Italo1001/blob/main/imagens/italo1001-banners/header-light.png">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=%5BItalo%5D&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=COMPUTER%20SCIENCE%20%7C%20SOFTWARE%20DEVELOPMENT&descAlignY=60&descSize=17&animation=fadeIn&color=0:000000,35:001a0d,70:003d20,100:00ff4c"
+  />
+
+<source
+ media="(prefers-color-scheme: light)"
+ srcset="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=%5BItalo%5D&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=COMPUTER%20SCIENCE%20%7C%20SOFTWARE%20DEVELOPMENT&descAlignY=60&descSize=17&animation=fadeIn&color=0:000000,35:001a0d,70:003d20,100:00ff4c"
+/>
+
+<img
+ src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=%5BItalo%5D&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=COMPUTER%20SCIENCE%20%7C%20SOFTWARE%20DEVELOPMENT&descAlignY=60&descSize=17&animation=fadeIn&color=0:000000,35:001a0d,70:003d20,100:00ff4c"
+ width="100%"
+ alt="Banner"
+/>
+
 </picture>
+
 <br>
+
 
 # 👋 Olá, eu sou Italo
 
