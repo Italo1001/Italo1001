@@ -94,7 +94,7 @@ Tenho como princípio aprender construindo: estudar o conceito, aplicar na prát
 
 <br>
 
-<h2 align="center">04 / GRÁFICO DE ATIVIDADES</h2>
+<h2 align="center">05 / GRÁFICO DE ATIVIDADES</h2>
 
 <p align="center">
   <img
@@ -103,14 +103,26 @@ Tenho como princípio aprender construindo: estudar o conceito, aplicar na prát
   />
 </p>
 
-<h2 align="center">04 / CONTRIBUIÇÃO COBRA</h2>
+<h2 align="center">06 / CONTRIBUIÇÃO COBRA</h2>
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Italo1001/Italo1001/output/github-contribution-grid-snake-dark.svg"
-    alt="Cobra de Contribuição"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Italo1001/Italo1001/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Italo1001/Italo1001/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Italo1001/Italo1001/output/github-contribution-grid-snake.svg"
+      alt="Cobra de Contribuição"
+    />
+  </picture>
 </p>
+
+
 
 <!--
 GITHUB ACTION — CONTRIBUTION SNAKE
