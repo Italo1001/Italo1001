@@ -38,27 +38,7 @@ Olá, meu nome é Italo
 
 Olá. Eu sou  italo, estudante de Ciência da Computação e desenvolvedor em formação.
 
-Meu foco está na construção de software, resolução de problemas e desenvolvimento de projetos que transformam conceitos em aplicações reais.
-
-Atualmente, estou aprofundando meus conhecimentos em:
-
-Desenvolvimento de software
-
-Algoritmos e estruturas de dados
-
-Desenvolvimento Web
-
-Banco de dados
-
-Engenharia de software
-
-Git & GitHub
-
-Docker e ambientes de desenvolvimento
-
-Inteligência Artificial
-
-Sistemas e infraestrutura
+tem nada por enquanto
 
 Alguns projetos pessoais 
 
