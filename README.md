@@ -94,19 +94,23 @@ Tenho como princípio aprender construindo: estudar o conceito, aplicar na prát
 
 <br>
 
-<h2 align="center">05 / ACTIVITY GRAPH</h2>
+<h2 align="center">04 / GRÁFICO DE ATIVIDADES</h2>
 
-<br>
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Italo1001&bg_color=050505&color=ffffff&line=00ff4c&point=00ffd5&area_color=003d20&area=true&hide_border=true&custom_title=Contribution%20Activity"
+    alt="Gráfico de atividades do GitHub"
+  />
+</p>
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Italo1001&bg_color=050505&color=ffffff&line=00ff4c&point=00ffd5&area_color=003d20&area=true&hide_border=true&custom_title=Contribution%20Activity" width="94%" alt="GitHub Activity Graph"> </p>
+<h2 align="center">04 / CONTRIBUIÇÃO COBRA</h2>
 
-<br>
-
-<h2 align="center">06 / CONTRIBUTION SNAKE</h2>
-
-<br>
-
-<p align="center"> <img src="https://raw.githubusercontent.com/Italo1001/Italo1001/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Contribution Snake"> </p>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Italo1001/Italo1001/output/github-contribution-grid-snake-dark.svg"
+    alt="Cobra de Contribuição"
+  />
+</p>
 
 <!--
 GITHUB ACTION — CONTRIBUTION SNAKE
