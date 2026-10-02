@@ -98,7 +98,7 @@ Tenho como princípio aprender construindo: estudar o conceito, aplicar na prát
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Italo1001&theme=github-compact&hide_border=true&area=true"
+    src="https://github-readme-activity-graph-rho-drab.vercel.app/graph?username=Italo1001"
     alt="GitHub Activity Graph"
   />
 </p>
