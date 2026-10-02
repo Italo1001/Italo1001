@@ -97,10 +97,7 @@ Tenho como princípio aprender construindo: estudar o conceito, aplicar na prát
 <h2 align="center">05 / GRÁFICO DE ATIVIDADES</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Italo1001&bg_color=050505&color=ffffff&line=00ff4c&point=00ffd5&area_color=003d20&area=true&hide_border=true&custom_title=Contribution%20Activity"
-    alt="Gráfico de atividades do GitHub"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Italo1001&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
 <h2 align="center">06 / CONTRIBUIÇÃO COBRA</h2>
