@@ -79,7 +79,7 @@ Consistency     █████████░  90%
 
 <td width="35%" align="center" valign="middle">
 
-<img src="https://github.com/Italo1001/Italo1001/blob/main/imagens/italo1001-banners/ChatGPT%20Image%202_10_2026%2C%2000_40_56.png" width="85%" alt="[Ítalo Emanoel]">
+<img src="https://github.com/Italo1001/Italo1001/blob/main/imagens/italo1001-banners/ft.png" width="85%" alt="[Ítalo Emanoel]">
 
 <br><br>
 
