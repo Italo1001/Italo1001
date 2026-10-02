@@ -44,16 +44,7 @@ Alguns projetos pessoais
 
 Tenho como princípio aprender construindo: estudar o conceito, aplicar na prática, entender os erros e evoluir a implementação.
 
-`<pre>
-CURRENT STATUS
-────────────────────────────────────
 
-Learning        █████████░  90%
-Programming     ████████░░  80%
-Problem Solving ████████░░  80%
-Projects        ███████░░░  70%
-Consistency     █████████░  90%
-</pre>
 
 </td>
 
@@ -91,7 +82,7 @@ Consistency     █████████░  90%
 
 <br>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=[SEU_NOME_DE_USUÁRIO]&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050505&title_color=00ff4c&icon_color=00ffd5&text_color=ffffff" height="180" alt="GitHub Stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_NOME_DE_USUÁRIO]&layout=compact&langs_count=8&hide_border=true&bg_color=050505&title_color=00ff4c&text_color=ffffff" height="180" alt="Top Languages"> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Italo1001&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050505&title_color=00ff4c&icon_color=00ffd5&text_color=ffffff" height="180" alt="GitHub Stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Italo1001&layout=compact&langs_count=8&hide_border=true&bg_color=050505&title_color=00ff4c&text_color=ffffff" height="180" alt="Top Languages"> </p>
 
 <br>
 
@@ -99,7 +90,7 @@ Consistency     █████████░  90%
 
 <br>
 
-<p align="center"> <img src="https://streak-stats.demolab.com?user=[SEU_NOME_DE_USUÁRIO]&hide_border=true&background=050505&ring=00ff4c&fire=00ffd5&currStreakLabel=00ff4c&sideLabels=ffffff&dates=777777&currStreakNum=ffffff&sideNums=ffffff" width="72%" alt="GitHub Streak"> </p>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=Italo1001&hide_border=true&background=050505&ring=00ff4c&fire=00ffd5&currStreakLabel=00ff4c&sideLabels=ffffff&dates=777777&currStreakNum=ffffff&sideNums=ffffff" width="72%" alt="GitHub Streak"> </p>
 
 <br>
 
@@ -107,7 +98,7 @@ Consistency     █████████░  90%
 
 <br>
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=[SEU_NOME_DE_USUÁRIO]&bg_color=050505&color=ffffff&line=00ff4c&point=00ffd5&area_color=003d20&area=true&hide_border=true&custom_title=Contribution%20Activity" width="94%" alt="GitHub Activity Graph"> </p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Italo1001&bg_color=050505&color=ffffff&line=00ff4c&point=00ffd5&area_color=003d20&area=true&hide_border=true&custom_title=Contribution%20Activity" width="94%" alt="GitHub Activity Graph"> </p>
 
 <br>
 
@@ -115,7 +106,7 @@ Consistency     █████████░  90%
 
 <br>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/[SEU_NOME_DE_USUÁRIO]/[SEU_NOME_DE_USUÁRIO]/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Contribution Snake"> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/Italo1001/Italo1001/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Contribution Snake"> </p>
 
 <!--
 GITHUB ACTION — CONTRIBUTION SNAKE
