@@ -8,21 +8,21 @@
 
 <div align="center">
 
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=[SEU_NOME]&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=COMPUTER%20SCIENCE%20%7C%20SOFTWARE%20DEVELOPMENT&descAlignY=60&descSize=17&animation=fadeIn&color=0:000000,35:001a0d,70:003d20,100:00ff4c"> <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=[SEU_NOME]&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=COMPUTER%20SCIENCE%20%7C%20SOFTWARE%20DEVELOPMENT&descAlignY=60&descSize=17&animation=fadeIn&color=0:000000,35:001a0d,70:003d20,100:00ff4c"> <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=[SEU_NOME]&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=COMPUTER%20SCIENCE%20%7C%20SOFTWARE%20DEVELOPMENT&descAlignY=60&descSize=17&animation=fadeIn&color=0:000000,35:001a0d,70:003d20,100:00ff4c" width="100%" alt="Banner"> </picture>
+<picture> <source media="(prefers-color-scheme:dark,green)" srcset="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Italo1001&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=COMPUTER%20SCIENCE%20%7C%20SOFTWARE%20DEVELOPMENT&descAlignY=60&descSize=17&animation=fadeIn&color=0:000000,35:001a0d,70:003d20,100:00ff4c"> <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Italo1001&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=COMPUTER%20SCIENCE%20%7C%20SOFTWARE%20DEVELOPMENT&descAlignY=60&descSize=17&animation=fadeIn&color=0:000000,35:001a0d,70:003d20,100:00ff4c"> <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Italo1001&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=COMPUTER%20SCIENCE%20%7C%20SOFTWARE%20DEVELOPMENT&descAlignY=60&descSize=17&animation=fadeIn&color=0:000000,35:001a0d,70:003d20,100:00ff4c" width="100%" alt="Banner"> </picture>
 
 <br>
 
-Olá, eu sou [SEU_NOME]
+Olá, meu nome é Italo
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=800&color=00FF4C&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Software+Developer+in+Progress;Building+Real+Projects;Learning+%7C+Building+%7C+Improving;Technology+%26+Problem+Solving" alt="Texto animado">
 
 <br>
 
-<a href="https://github.com/[SEU_NOME_DE_USUÁRIO]?tab=followers"> <img src="https://img.shields.io/github/followers/[SEU_NOME_DE_USUÁRIO]?style=for-the-badge&logo=github&logoColor=ffffff&label=FOLLOWERS&labelColor=050505&color=00c73c" alt="Followers"> </a>
+<a href="https://github.com/Italo1001?tab=followers"> <img src="https://img.shields.io/github/followers/Italo1001?style=for-the-badge&logo=github&logoColor=ffffff&label=FOLLOWERS&labelColor=050505&color=00c73c" alt="Followers"> </a>
 
-<a href="https://github.com/[SEU_NOME_DE_USUÁRIO]?tab=repositories"> <img src="https://img.shields.io/github/stars/[SEU_NOME_DE_USUÁRIO]?style=for-the-badge&logo=github&logoColor=ffffff&label=STARS&labelColor=050505&color=00ff4c" alt="Stars"> </a>
+<a href="https://github.com/Italo1001?tab=repositories"> <img src="https://img.shields.io/github/stars/Italo1001?style=for-the-badge&logo=github&logoColor=ffffff&label=STARS&labelColor=050505&color=00ff4c" alt="Stars"> </a>
 
-<img src="https://komarev.com/ghpvc/?username=[SEU_NOME_DE_USUÁRIO]&style=for-the-badge&color=00ffd5&label=PROFILE+VIEWS" alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=Italo1001&style=for-the-badge&color=00ff4c&label=PROFILE+VIEWS" alt="Profile Views">
 
 </div>
 
@@ -36,7 +36,7 @@ Olá, eu sou [SEU_NOME]
 
 > whoami
 
-Olá. Eu sou [SEU_NOME], estudante de Ciência da Computação e desenvolvedor em formação.
+Olá. Eu sou  italo, estudante de Ciência da Computação e desenvolvedor em formação.
 
 Meu foco está na construção de software, resolução de problemas e desenvolvimento de projetos que transformam conceitos em aplicações reais.
 
@@ -59,6 +59,8 @@ Docker e ambientes de desenvolvimento
 Inteligência Artificial
 
 Sistemas e infraestrutura
+
+Alguns projetos pessoais 
 
 Tenho como princípio aprender construindo: estudar o conceito, aplicar na prática, entender os erros e evoluir a implementação.
 
