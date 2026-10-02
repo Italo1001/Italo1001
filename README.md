@@ -217,19 +217,14 @@ jobs:
 
 <div align="center">
 
-┌────────────────────────────────────────────────────────────┐
-│                                                            │
-│   USER        : [SEU_NOME]                                 │
-│   ROLE        : [SEU_CARGO]                                │
-│   LOCATION    : [SUA_LOCALIZAÇÃO]                          │
-│   FOCUS       : [SEU_FOCO_ATUAL]                           │
-│   STATUS      : ONLINE                                     │
-│                                                            │
-│   BUILDING    ████████████████████░░  90%                 │
-│   LEARNING    ██████████████████████ 100%                 │
-│   DEBUGGING   ████████████████░░░░░░  80%                 │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
+
+                                                            
+   USER        : [SEU_NOME]                                 
+   ROLE        : [SEU_CARGO]                                
+   LOCATION    : [SUA_LOCALIZAÇÃO]                          
+   FOCUS       : [SEU_FOCO_ATUAL]                           
+   STATUS      : ONLINE                                                                                                
+
 
 </div>
 
@@ -257,7 +252,7 @@ jobs:
 
 </p>
 
-<p align="center"> <sub>[SEU_NOME] • [ANO]</sub> </p>
+<p align="center"> <sub>ITALO • 2026</sub> </p>
 
 <!-- ========================================================= -->
 
