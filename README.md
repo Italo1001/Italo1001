@@ -163,13 +163,13 @@ jobs:
 
 <td width="50%" align="center" valign="top">
 
-<h3>[PROJETO_01]</h3>
+<h3>Site Inovetech</h3>
 
-<p>[DESCRIÇÃO_DO_PROJETO]</p>
+<p>Site de apresentção da InoveTech</p>
 
 <p> <img src="https://img.shields.io/badge/[TECNOLOGIA_01]-050505?style=for-the-badge&logoColor=00ff4c" alt="[TECNOLOGIA_01]"> <img src="https://img.shields.io/badge/[TECNOLOGIA_02]-050505?style=for-the-badge&logoColor=00ffd5" alt="[TECNOLOGIA_02]"> </p>
 
-<a href="[LINK_DO_PROJETO_01]"> <img src="https://img.shields.io/badge/VIEW_PROJECT-00ff4c?style=for-the-badge&logo=github&logoColor=000000" alt="View Project"> </a>
+<a href="https://github.com/Italo1001/INOVETECH_SITE"> <img src="https://img.shields.io/badge/VIEW_PROJECT-00ff4c?style=for-the-badge&logo=github&logoColor=000000" alt="View Project"> </a>
 
 </td>
 
@@ -189,7 +189,7 @@ jobs:
 
 <br>
 
-<h2 align="center">08 / CONECTE-SE</h2>
+<h2 align="center">CONECTE-SE</h2>
 
 <br>
 
@@ -211,36 +211,18 @@ jobs:
 
 <br>
 
-<h2 align="center">09 / SYSTEM</h2>
 
-<br>
-
-<div align="center">
-
-
-                                                            
-   USER        : [SEU_NOME]                                 
-   ROLE        : [SEU_CARGO]                                
-   LOCATION    : [SUA_LOCALIZAÇÃO]                          
-   FOCUS       : [SEU_FOCO_ATUAL]                           
-   STATUS      : ONLINE                                                                                                
-
-
-</div>
-
-<br>
-
-<h2 align="center">10 / CONTATO</h2>
+<h2 align="center"> CONTATO</h2>
 
 <br>
 
 <p align="center">
 
-<b>[SEU_NOME]</b>
+<b>ITALO EMANOEL </b>
 <br>
-[SEU_TÍTULO_PROFISSIONAL]
+ESTUDANTE
 <br>
-[SEU_EMAIL]
+it.inovetech@gmail.com
 
 </p>
 
