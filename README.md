@@ -68,13 +68,13 @@ Tenho como princípio aprender construindo: estudar o conceito, aplicar na prát
 
 <br>
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,typescript,html,css,react,nodejs,git,github,docker,mysql,linux,vscode&theme=dark" alt="Tecnologias"> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,python,java,javascript,typescript,html,css,react,nodejs,git,github,docker&theme=dark" alt="Tecnologias"> </p>
 
 <br>
 
-<p align="center"> <img src="https://img.shields.io/badge/C-050505?style=for-the-badge&logo=c&logoColor=00ff4c"> <img src="https://img.shields.io/badge/C%2B%2B-050505?style=for-the-badge&logo=cplusplus&logoColor=00ffd5"> <img src="https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=00ff4c"> <img src="https://img.shields.io/badge/Java-050505?style=for-the-badge&logo=openjdk&logoColor=00ffd5"> <img src="https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript&logoColor=00ff4c"> <img src="https://img.shields.io/badge/TypeScript-050505?style=for-the-badge&logo=typescript&logoColor=00ffd5"> </p>
+<p align="center"> <img src="https://img.shields.io/badge/C-050505?style=for-the-badge&logo=c&logoColor=00ff4c"> <img src="https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=00ff4c"> <img src="https://img.shields.io/badge/Java-050505?style=for-the-badge&logo=openjdk&logoColor=00ffd5"> <img src="https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript&logoColor=00ff4c"> <img src="https://img.shields.io/badge/TypeScript-050505?style=for-the-badge&logo=typescript&logoColor=00ffd5"> </p>
 
-<p align="center"> <img src="https://img.shields.io/badge/React-050505?style=for-the-badge&logo=react&logoColor=00ff4c"> <img src="https://img.shields.io/badge/Node.js-050505?style=for-the-badge&logo=node.js&logoColor=00ffd5"> <img src="https://img.shields.io/badge/Docker-050505?style=for-the-badge&logo=docker&logoColor=00ff4c"> <img src="https://img.shields.io/badge/MySQL-050505?style=for-the-badge&logo=mysql&logoColor=00ffd5"> <img src="https://img.shields.io/badge/Linux-050505?style=for-the-badge&logo=linux&logoColor=00ff4c"> <img src="https://img.shields.io/badge/Git-050505?style=for-the-badge&logo=git&logoColor=00ffd5"> </p>
+<p align="center"> <img src="https://img.shields.io/badge/React-050505?style=for-the-badge&logo=react&logoColor=00ff4c"> <img src="https://img.shields.io/badge/Node.js-050505?style=for-the-badge&logo=node.js&logoColor=00ffd5"> <img src="https://img.shields.io/badge/Docker-050505?style=for-the-badge&logo=docker&logoColor=00ff4c"><img src="https://img.shields.io/badge/Git-050505?style=for-the-badge&logo=git&logoColor=00ffd5"> </p>
 
 <br>
 
