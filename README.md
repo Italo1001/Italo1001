@@ -14,7 +14,7 @@ Olá, meu nome é Italo
 
 <a href="https://github.com/Italo1001?tab=repositories"> <img src="https://img.shields.io/github/stars/Italo1001?style=for-the-badge&logo=github&logoColor=ffffff&label=STARS&labelColor=050505&color=00ff4c" alt="Stars"> </a>
 
-<img src="https://komarev.com/ghpvc/?username=Italo1001&style=for-the-badge&color=00ff4c&label=PROFILE+VIEWS" alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=Italo1001&style=for-the-badge&color=000000&label=PROFILE+VIEWS" alt="Profile Views">
 
 </div>
 
@@ -74,7 +74,7 @@ Tenho como princípio aprender construindo: estudar o conceito, aplicar na prát
 
 <br>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Italo1001&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050505&title_color=00ff4c&icon_color=00ffd5&text_color=ffffff" height="180" alt="GitHub Stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Italo1001&layout=compact&langs_count=8&hide_border=true&bg_color=050505&title_color=00ff4c&text_color=ffffff" height="180" alt="Top Languages"> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Italo1001&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050505&title_color=FFFFFF&icon_color=FFFFFF&text_color=00FF4C" height="180" alt="GitHub Stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Italo1001&layout=compact&langs_count=8&hide_border=true&bg_color=050505&title_color=00ff4c&text_color=ffffff" height="180" alt="Top Languages"> </p>
 
 <br>
 
@@ -90,7 +90,7 @@ Tenho como princípio aprender construindo: estudar o conceito, aplicar na prát
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph-rho-drab.vercel.app/graph?username=Italo1001&bg_color=050505&color=00FFD5&title_color=00FF4C&line=00FF4C&point=00FFD5&area_color=003D20&area=true&border_color=003D20&hide_border=true"
+    src="https://github-readme-activity-graph-rho-drab.vercel.app/graph?username=Italo1001&bg_color=050505&color=B7D9C2&title_color=&line=10B981&point=6EE7B7&area_color=123524&area=true&border_color=14532D&hide_border=true"
     alt="GitHub Activity Graph"
   />
 </p>
@@ -187,17 +187,17 @@ jobs:
 
 <p align="center">
 
-<a href="[LINK_LINKEDIN]"> <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00ff4c" alt="LinkedIn"> </a>
+<!--<a href="[LINK_LINKEDIN]"> <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00ff4c" alt="LinkedIn"> </a>-->
+<!--
+<a href="[LINK_X]"> <img src="https://img.shields.io/badge/X-050505?style=for-the-badge&logo=x&logoColor=ffffff" alt="X"> </a>-->
 
-<a href="[LINK_X]"> <img src="https://img.shields.io/badge/X-050505?style=for-the-badge&logo=x&logoColor=ffffff" alt="X"> </a>
+<a href="https://www.instagram.com/italo.c_s/"> <img src="https://img.shields.io/badge/Instagram-050505?style=for-the-badge&logo=instagram&logoColor=00ffd5" alt="Instagram"> </a>
 
-<a href="[LINK_INSTAGRAM]"> <img src="https://img.shields.io/badge/Instagram-050505?style=for-the-badge&logo=instagram&logoColor=00ffd5" alt="Instagram"> </a>
+<!--<a href="[LINK_TIKTOK]"> <img src="https://img.shields.io/badge/TikTok-050505?style=for-the-badge&logo=tiktok&logoColor=00ff4c" alt="TikTok"> </a>-->
 
-<a href="[LINK_TIKTOK]"> <img src="https://img.shields.io/badge/TikTok-050505?style=for-the-badge&logo=tiktok&logoColor=00ff4c" alt="TikTok"> </a>
+<!--<a href="[LINK_YOUTUBE]"> <img src="https://img.shields.io/badge/YouTube-050505?style=for-the-badge&logo=youtube&logoColor=00ffd5" alt="YouTube"> </a>-->
 
-<a href="[LINK_YOUTUBE]"> <img src="https://img.shields.io/badge/YouTube-050505?style=for-the-badge&logo=youtube&logoColor=00ffd5" alt="YouTube"> </a>
-
-<a href="mailto:[SEU_EMAIL]"> <img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00ff4c" alt="Email"> </a>
+<a href="mailto:it.inovetech@gmail.com"> <img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00ff4c" alt="Email"> </a>
 
 </p>
 
