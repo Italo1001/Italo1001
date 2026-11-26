@@ -1,10 +1,3 @@
-<!-- ========================================================= -->
-
-<!-- GITHUB PROFILE README -->
-
-<!-- DARK / TECH / PREMIUM / SERIOUS -->
-
-<!-- ========================================================= -->
 
 <div align="center">
 
@@ -28,7 +21,7 @@ Olá, meu nome é Italo
 
 <br>
 
-<h2 align="center">01 / SOBRE MIM</h2>
+<h2 align="center">SOBRE MIM</h2>
 
 <br>
 
@@ -64,7 +57,7 @@ Tenho como princípio aprender construindo: estudar o conceito, aplicar na prát
 
 <br>
 
-<h2 align="center">02 / STACK TECNOLÓGICA</h2>
+<h2 align="center">STACK TECNOLÓGICA</h2>
 
 <br>
 
@@ -78,7 +71,7 @@ Tenho como princípio aprender construindo: estudar o conceito, aplicar na prát
 
 <br>
 
-<h2 align="center">03 / GITHUB ANALYTICS</h2>
+<h2 align="center">GITHUB ANALYTICS</h2>
 
 <br>
 
@@ -86,7 +79,7 @@ Tenho como princípio aprender construindo: estudar o conceito, aplicar na prát
 
 <br>
 
-<h2 align="center">04 / GITHUB STREAK</h2>
+<h2 align="center">GITHUB STREAK</h2>
 
 <br>
 
@@ -103,7 +96,7 @@ Tenho como princípio aprender construindo: estudar o conceito, aplicar na prát
   />
 </p>
 
-<h2 align="center">06 / CONTRIBUIÇÃO COBRA</h2>
+<h2 align="center">CONTRIBUIÇÃO COBRA</h2>
 
 <p align="center">
   <picture>
@@ -155,7 +148,7 @@ jobs:
 
 <br>
 
-<h2 align="center">07 / PROJETOS</h2>
+<h2 align="center">PROJETOS</h2>
 
 <br>
 
